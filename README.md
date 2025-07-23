@@ -20,19 +20,26 @@ It is designed to assist farmers, agriculturists, and researchers in identifying
 
 ---
 
-## 👩‍💻 Developer Role & Skills Demonstrated
+## 👩‍💻 Project Summary & Collaboration
 
-- **Lead Developer**: Entire pipeline built and managed by **Sapna**
-- **Skills Showcased**:
-  - CNN model development
-  - Data preprocessing & augmentation
-  - Streamlit-based web interface
-  - Model evaluation & visualization
-  - Modular scripting for maintainability
-- **Teamwork**: Contributions from **Inderjeet Kaur** and **Gourve** in planning, review, and feedback
+This project was developed as part of an academic and professional portfolio initiative by **Sapna**, in collaboration with **Inderjeet Kaur** and **Gourve**. It showcases a complete machine learning pipeline — from data to deployment — focused on **apple leaf disease classification** using deep learning.
+
+This project was a collaborative effort involving **model development**, **interface design**, and **documentation**. Teammates contributed to **planning discussions**, **feedback cycles**, and **testing**.
 
 ---
 
+## 💡 Key Responsibilities & Skills Demonstrated
+
+- 🧠 Developed and trained a **Convolutional Neural Network (CNN)** for apple leaf disease classification  
+- 🖼️ Performed **image preprocessing** and **data augmentation** for robust model performance  
+- 🌐 Built a **real-time image classification web interface** using **Streamlit**  
+- 📊 Evaluated model performance using **accuracy/loss curves** and **confusion matrices**  
+- 🧱 Structured the codebase with **modular Python scripts** and **Google Colab notebooks**  
+- 📝 Managed project **documentation**, **version control**, and **GitHub publishing**
+
+> This project demonstrates strong individual ownership, collaborative teamwork, and end-to-end problem-solving across the machine learning development lifecycle.
+
+---
 ## 🧠 Tech Stack
 
 | Category             | Libraries                              |
