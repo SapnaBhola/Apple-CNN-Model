@@ -1,0 +1,22 @@
+# Requires Python 3.11+
+
+# Core ML & Deep Learning
+tensorflow==2.18.0
+keras==3.8.0
+
+# Scientific Computing
+numpy==2.0.2
+pandas==2.2.2
+
+# Data Visualization
+matplotlib==3.10.0
+
+# Image Processing
+opencv-python==4.12.0
+Pillow==11.2.1
+
+# Scikit-learn for data splitting & metrics
+scikit-learn==1.6.1
+
+# Streamlit for the web interface
+Streamlit==1.47.0

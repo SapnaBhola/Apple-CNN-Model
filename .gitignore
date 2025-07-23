@@ -1,0 +1,29 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments (if used)
+env/
+venv/
+.venv/
+ENV/
+.env
+
+# Dataset (ignore only if large)
+data/
+*.zip
+*.tar.gz
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache and config
+.streamlit/
+
+# Logs
+*.log
+
+# Editor-specific
+.vscode/
