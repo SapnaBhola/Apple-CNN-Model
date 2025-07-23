@@ -136,7 +136,7 @@ Located in the [`assets/`](./assets) folder:
 ## 🎯 Key Features
 
 * ✔️ Image classification using custom CNN
-* ✔️ Real-time prediction with Streamlit interface
+* ✔️ Apple images prediction with Streamlit interface
 * ✔️ Modular design for training, evaluation & inference
 * ✔️ Clean visualization and reproducible results
 
