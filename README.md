@@ -175,6 +175,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 * 📧 Email: sapna.bhola86@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/sapna-18785b287/
+* 📝 Blog: https://medium.com/@sapna.bhola86
 
 ---
 
