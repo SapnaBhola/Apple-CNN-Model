@@ -1,13 +1,13 @@
 
 
 ```markdown
-# 🍎 Apple Leaf Disease Classification using CNN
+# Apple Leaf Disease Classification using CNN
 
 A deep learning-based image classification project to detect and categorize apple leaf diseases using custom CNN architecture. Built with **TensorFlow**, **Keras**, and deployed through **Streamlit**, this project showcases end-to-end ML engineering skills from model design to deployment.
 
 ---
 
-## 💡 Project Summary
+##  Project Summary
 
 This application classifies apple leaf images into four categories:
 
@@ -20,7 +20,7 @@ It is designed to assist farmers, agriculturists, and researchers in identifying
 
 ---
 
-## 👩‍💻 Project Summary & Collaboration
+## Project Summary & Collaboration
 
 This project was developed as part of an academic and professional portfolio initiative by **Sapna**, in collaboration with **Inderjeet Kaur** and **Gourve**. It showcases a complete machine learning pipeline — from data to deployment — focused on **apple leaf disease classification** using deep learning.
 
@@ -28,19 +28,19 @@ This project was a collaborative effort involving **model development**, **inter
 
 ---
 
-## 💡 Key Responsibilities & Skills Demonstrated
+##  Key Responsibilities & Skills Demonstrated
 
-- 🧠 Developed and trained a **Convolutional Neural Network (CNN)** for apple leaf disease classification  
-- 🖼️ Performed **image preprocessing** and **data augmentation** for robust model performance  
-- 🌐 Built a **real-time image classification web interface** using **Streamlit**  
-- 📊 Evaluated model performance using **accuracy/loss curves** and **confusion matrices**  
-- 🧱 Structured the codebase with **modular Python scripts** and **Google Colab notebooks**  
-- 📝 Managed project **documentation**, **version control**, and **GitHub publishing**
+- Developed and trained a **Convolutional Neural Network (CNN)** for apple leaf disease classification  
+-  Performed **image preprocessing** and **data augmentation** for robust model performance  
+-  Built a **real-time image classification web interface** using **Streamlit**  
+-  Evaluated model performance using **accuracy/loss curves** and **confusion matrices**  
+-  Structured the codebase with **modular Python scripts** and **Google Colab notebooks**  
+-  Managed project **documentation**, **version control**, and **GitHub publishing**
 
 > This project demonstrates strong individual ownership, collaborative teamwork, and end-to-end problem-solving across the machine learning development lifecycle.
 
 ---
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Category             | Libraries                              |
 |----------------------|----------------------------------------|
@@ -54,7 +54,7 @@ This project was a collaborative effort involving **model development**, **inter
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 > 🔗 Click folder names to browse contents directly on GitHub.
 
@@ -83,7 +83,7 @@ This project was a collaborative effort involving **model development**, **inter
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 - Source: [Apple Leaf Disease Dataset on Kaggle](https://www.kaggle.com/datasets/ludehsar/apple-disease-dataset)
 - The dataset contains labeled images of apple leaves across 4 classes.
@@ -91,7 +91,7 @@ This project was a collaborative effort involving **model development**, **inter
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1️⃣ Clone the Repository
 
@@ -126,14 +126,14 @@ Upload any apple leaf image to predict its health condition in real-time.
 
 Located in the [`assets/`](./assets) folder:
 
-* 📈 Accuracy & Loss graphs (training vs validation)
-* 📉 Confusion matrix
-* ✅ Sample input-output predictions
-* 🖼️ Web UI screenshots
+*  Accuracy & Loss graphs (training vs validation)
+*  Confusion matrix
+*  Sample input-output predictions
+*  Web UI screenshots
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 * ✔️ Image classification using custom CNN
 * ✔️ Apple images prediction with Streamlit interface
@@ -142,7 +142,7 @@ Located in the [`assets/`](./assets) folder:
 
 ---
 
-## 🌱 Use Cases
+##  Use Cases
 
 * Smart agriculture and disease prediction
 * Plant pathology research support
@@ -150,28 +150,28 @@ Located in the [`assets/`](./assets) folder:
 
 ---
 
-## 🧪 Future Improvements
+##  Future Improvements
 
-* 💬 Grad-CAM/SHAP integration for interpretability
-* ☁️ Cloud-hosted web app version (Streamlit Cloud)
-* 🧹 Enhanced dataset cleaning and augmentation
+*  Grad-CAM/SHAP integration for interpretability
+*  Cloud-hosted web app version (Streamlit Cloud)
+*  Enhanced dataset cleaning and augmentation
 
 ---
 
-## 🤝 Acknowledgments
+##  Acknowledgments
 
 This project was developed by **Sapna**, with support from **Inderjeet Kaur** and **Gourve**.
 All development, ML architecture, evaluation, deployment, and documentation were carried out by Sapna as part of a **professional learning portfolio project**.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-## 📬 Contact
+##  Contact
 
 * 📧 Email: sapna.bhola86@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/sapna-18785b287/
